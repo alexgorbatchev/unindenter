@@ -1,0 +1,42 @@
+{
+  "name": "unindenter",
+  "version": "0.5.0",
+  "description": "Unindents a string by a maxiumum possible number of white space present on each line.",
+  "keywords": [
+    "tabs",
+    "unindenter"
+  ],
+  "homepage": "https://github.com/alexgorbatchev/unindenter",
+  "bugs": "https://github.com/alexgorbatchev/unindenter/issues",
+  "author": {
+    "name": "Alex Gorbatchev",
+    "email": "",
+    "url": "https://github.com/alexgorbatchev"
+  },
+  "main": "./lib/unindenter.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexgorbatchev/unindenter.git"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/spec.coffee"
+  },
+  "devDependencies": {
+    "chai": "~1.6.0",
+    "coffee-errors": "~0.8.5",
+    "coffee-script": "~1.6.3",
+    "mocha": "~1.14.0"
+  },
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    },
+    {
+      "type": "LGPL"
+    }
+  ]
+}
