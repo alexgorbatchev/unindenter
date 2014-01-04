@@ -1,7 +1,6 @@
 # unindenter
 
 Unindents a block of text by the lowest common indent amount.
-Parses key/value pairs into hash object.
 
 [![Dependency status](https://david-dm.org/alexgorbatchev/unindenter.png)](https://david-dm.org/alexgorbatchev/unindenter)
 [![devDependency Status](https://david-dm.org/alexgorbatchev/unindenter/dev-status.png)](https://david-dm.org/alexgorbatchev/unindenter#info=devDependencies)
