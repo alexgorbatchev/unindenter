@@ -24,4 +24,4 @@ Unindents a block of text by the lowest common indent amount.
 
 ## License
 
-LGPL & MIT
+GPL & MIT
