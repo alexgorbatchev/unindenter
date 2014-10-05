@@ -2,9 +2,9 @@
 
 Unindents a block of text by the lowest common indent amount.
 
-[![Dependency status](https://david-dm.org/syntaxhighlighter/unindenter.svg)](https://david-dm.org/syntaxhighlighter/unindenter)
-[![devDependency Status](https://david-dm.org/syntaxhighlighter/unindenter/dev-status.svg)](https://david-dm.org/syntaxhighlighter/unindenter#info=devDependencies)
-[![Build Status](https://travis-ci.org/syntaxhighlighter/unindenter.svg)](https://travis-ci.org/syntaxhighlighter/unindenter)
+[![Dependency status](https://david-dm.org/alexgorbatchev/unindenter.svg)](https://david-dm.org/alexgorbatchev/unindenter)
+[![devDependency Status](https://david-dm.org/alexgorbatchev/unindenter/dev-status.svg)](https://david-dm.org/alexgorbatchev/unindenter#info=devDependencies)
+[![Build Status](https://travis-ci.org/alexgorbatchev/unindenter.svg)](https://travis-ci.org/alexgorbatchev/unindenter)
 
 [![NPM](https://nodei.co/npm/unindenter.svg)](https://npmjs.org/package/unindenter)
 
@@ -24,4 +24,4 @@ Unindents a block of text by the lowest common indent amount.
 
 ## License
 
-GPL & MIT
+MIT
