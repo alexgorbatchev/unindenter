@@ -1,12 +1,12 @@
 # unindenter
 
-Unindents a block of text by the lowest common indent amount.
-
 [![Dependency status](https://david-dm.org/alexgorbatchev/unindenter.svg)](https://david-dm.org/alexgorbatchev/unindenter)
 [![devDependency Status](https://david-dm.org/alexgorbatchev/unindenter/dev-status.svg)](https://david-dm.org/alexgorbatchev/unindenter#info=devDependencies)
-[![Build Status](https://travis-ci.org/alexgorbatchev/unindenter.svg)](https://travis-ci.org/alexgorbatchev/unindenter)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/unindenter.svg)](https://travis-ci.org/syntaxhighlighter/unindenter)
 
 [![NPM](https://nodei.co/npm/unindenter.svg)](https://npmjs.org/package/unindenter)
+
+Unindents a block of text by the lowest common indent amount. This is useful when you want to remove extra indentantion on a code block.
 
 ## Installation
 
@@ -24,4 +24,4 @@ Unindents a block of text by the lowest common indent amount.
 
 ## License
 
-MIT
+GPL & MIT
