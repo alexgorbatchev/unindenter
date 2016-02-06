@@ -31,7 +31,10 @@
     "node": ">=4",
     "npm": ">=2"
   },
-  "licenses": ["GPL", "MIT"],
+  "licenses": [
+    "GPL",
+    "MIT"
+  ],
   "babel": {
     "presets": [
       "es2015"
