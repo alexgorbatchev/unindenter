@@ -1,6 +1,6 @@
 {
   "name": "unindenter",
-  "version": "0.5.1",
+  "version": "4.0.0",
   "description": "Unindents a string by a maxiumum possible number of white space present on each line.",
   "keywords": [
     "tabs",
