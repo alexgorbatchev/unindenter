@@ -1,26 +1,35 @@
 # unindenter
 
-[![Dependency status](https://david-dm.org/alexgorbatchev/unindenter.svg)](https://david-dm.org/alexgorbatchev/unindenter)
-[![devDependency Status](https://david-dm.org/alexgorbatchev/unindenter/dev-status.svg)](https://david-dm.org/alexgorbatchev/unindenter#info=devDependencies)
+[![GratiPay](https://img.shields.io/gratipay/user/alexgorbatchev.svg)](https://gratipay.com/alexgorbatchev/)
 [![Build Status](https://travis-ci.org/syntaxhighlighter/unindenter.svg)](https://travis-ci.org/syntaxhighlighter/unindenter)
-
-[![NPM](https://nodei.co/npm/unindenter.svg)](https://npmjs.org/package/unindenter)
+[![Coverage](https://img.shields.io/codecov/c/github/syntaxhighlighter/unindenter.svg)](https://codecov.io/github/syntaxhighlighter/unindenter)
+![Downloads](https://img.shields.io/npm/dm/unindenter.svg)
+![Version](https://img.shields.io/npm/v/unindenter.svg)
 
 Unindents a block of text by the lowest common indent amount. This is useful when you want to remove extra indentantion on a code block.
 
 ## Installation
 
-    npm install unindenter
+```
+npm install unindenter
+```
 
 ## Usage Example
 
-    var unindenter = require('unindenter');
-    unindenter.unindent('\t\t1\n\t\t2');
-    // 1\n2
+```js
+var unindenter = require('unindenter');
+unindenter.unindent('\t\tline 1\n\t\tline 2\n\t\t\tline 3');
+
+line 1
+line 2
+    line 3
+```
 
 ## Testing
 
-    npm test
+```
+npm test
+```
 
 ## License
 
